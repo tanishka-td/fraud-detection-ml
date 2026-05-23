@@ -1,9 +1,11 @@
 # Credit Card Fraud Detection — ML Project
-## Credit Card Fraud Detection using Machine Learning
+## Credit Card Fraud Detection using Machine Learning,
+-
 An end-to-end machine learning system that detects fraudulent credit card transactions — with rich feature engineering, XGBoost classification, and SHAP explainability that explains why a transaction was flagged in plain English.
 ---
 
 ## Problem Statement
+-
 Credit card fraud costs billions of dollars annually. Traditional rule-based systems fail because they can't adapt to evolving fraud patterns. This project builds an ML pipeline trained on 555,719 real-world transactions to automatically flag suspicious activity — even under extreme class imbalance (only 0.5% of transactions are fraud).
 ---
 
